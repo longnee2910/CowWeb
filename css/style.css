@@ -326,10 +326,6 @@
             align-items: center;
             gap: 20px;
         }
-        .a{
-            color: rgb(137, 137, 137);
-            font-size: small;
-        }
         header a{
             color: white;
             font-size: xx-large;

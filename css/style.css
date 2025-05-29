@@ -335,7 +335,7 @@
             display: none;
         }
         }
-       .tong-hop-file-kien-thuc{
+       .button_web{
         background-color: white;
         color: black;
         display: block;
@@ -345,7 +345,11 @@
         border-left: 3px solid transparent;
         transition: 0.3s;
        } 
-       .tong-hop-file-kien-thuc:hover{
+       .button_web:hover{
         background-color: rgb(203, 203, 203);
         border-left: 3px solid #000;
+       }
+       .chu_thich{
+        font-size: small;
+        color: rgb(122, 122, 122);
        }
